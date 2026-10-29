@@ -1,0 +1,8 @@
+CLIENT WEBSITE DELIVERY — BUILT JAVASCRIPT ONLY
+
+Upload the contents of this directory to the web hosting document root (for example public_html).
+To test locally use: python -m http.server 8080
+Then open http://localhost:8080. Opening index.html using file:// may not work due to ES modules.
+
+No original React JSX source, source maps, or development project files are included.
+IMPORTANT: Browser-delivered JavaScript can still be inspected or modified by anyone with the files. Protection cannot be guaranteed.
